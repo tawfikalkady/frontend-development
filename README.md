@@ -1,3 +1,18 @@
+i am tawfik
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
+
 ![Banner](/img/Banner.jpg 'Banner')
 
 ## Introduction
